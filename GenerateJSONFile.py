@@ -2,7 +2,7 @@ import os
 import json
 
 path = "./images/"
-repoimgpath="https://raw.githubusercontent.com/teabreaktime/pictogramas/master/images/"
+repoimgpath="https://raw.githubusercontent.com/teabreaktime/pictocards/master/images/"
 
 categories=os.listdir(path)
 pictograms={}
